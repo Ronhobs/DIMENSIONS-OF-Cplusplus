@@ -1,0 +1,22 @@
+    All Test scores
+87 90 65 45 88 89 75 80 
+89 85 78 56 90 91 99 82 
+80 90 72 95 99 66 77 88 
+90 65 80 98 99 76 77 88 
+55 75 66 99 99 56 87 86 
+30 60 80 90 99 56 67 88 
+90 55 95 35 98 86 37 88 
+99 97 99 98 98 96 87 83 
+90 65 80 98 99 76 87 88 
+35 75 60 99 99 56 87 88 
+
+Total for test #1 is: 745
+Total for test #5 is: 968
+Total for Student #3 is: 667
+Total for Student #8 is: 757
+Average for test #5: 96.80
+Average for test #8: 85.90
+Average for Student #5: 77.88
+Average for Student #9: 85.38
+Highest test score for Student #2: 99
+The top student: 8
