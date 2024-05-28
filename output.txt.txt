@@ -1,0 +1,37 @@
+------------------------
+Values and Addresses:Array
+---------------------------
+
+ Value of index0:10
+Address of index0:0x6e49dffdf0
+
+ Value of index1:22
+Address of index1:0x6e49dffdf4
+
+ Value of index2:34
+Address of index2:0x6e49dffdf8
+
+ Value of index3:48
+Address of index3:0x6e49dffdfc
+
+ Value of index4:59
+Address of index4:0x6e49dffe00
+
+------------------------------
+Values and Addresses:Pointer
+--------------------------
+
+Value of index0:10
+Address of index00x6e49dffdf0
+
+Value of index1:22
+Address of index10x6e49dffdf4
+
+Value of index2:34
+Address of index20x6e49dffdf8
+
+Value of index3:48
+Address of index30x6e49dffdfc
+
+Value of index4:59
+Address of index40x6e49dffe00
