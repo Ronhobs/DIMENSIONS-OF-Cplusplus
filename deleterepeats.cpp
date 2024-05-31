@@ -1,3 +1,4 @@
+//This code shows we deleted repeating numbers in an array
 #include <iostream>
 using namespace std;
 
