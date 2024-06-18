@@ -1,0 +1,220 @@
+//LINEAR SEARCH
+
+
+    All Test scores
+87 90 65 45 88 89 75 80
+89 85 78 56 90 91 99 82
+80 90 72 95 99 66 77 88
+90 65 80 98 99 76 77 88
+55 75 66 99 99 56 87 86
+30 60 80 90 99 56 67 88
+90 55 95 35 98 86 37 88
+99 97 99 98 98 96 87 83
+90 65 80 98 99 76 87 88
+35 75 60 99 99 56 87 88
+
+Total for Test #1 is: 745
+
+Total for Test #5 is: 968
+
+Total for Student #3 is: 667
+
+Total for Student #8 is: 757
+
+Average for Test #5: 96.80
+
+Average for Test #8: 85.90
+
+Average for Student #5: 77.88
+
+Average for Student #9: 85.38
+
+Highest test score for Student #2: 99
+
+The top Student: 8
+
+Find if at least one student has an average score greater
+Enter average score of student: 95
+
+A student DOES NOT have an average score greater than: 95.00
+
+Find if at least one test has an average score greater
+Enter average score of test: 95
+
+A test DOES have an average score greater than: 95.00
+
+*****************************************************************************************************
+
+    All Test scores
+87 90 65 45 88 89 75 80
+89 85 78 56 90 91 99 82
+80 90 72 95 99 66 77 88
+90 65 80 98 99 76 77 88
+55 75 66 99 99 56 87 86
+30 60 80 90 99 56 67 88
+90 55 95 35 98 86 37 88
+99 97 99 98 98 96 87 83
+90 65 80 98 99 76 87 88
+35 75 60 99 99 56 87 88
+
+Total for Test #1 is: 745
+
+Total for Test #5 is: 968
+
+Total for Student #3 is: 667
+
+Total for Student #8 is: 757
+
+Average for Test #5: 96.80
+
+Average for Test #8: 85.90
+
+Average for Student #5: 77.88
+
+Average for Student #9: 85.38
+
+Highest test score for Student #2: 99
+
+The top Student: 8
+
+Find if at least one student has an average score greater
+Enter average score of student: 60
+
+A student DOES have an average score greater than: 60.00
+
+Find if at least one test has an average score greater
+Enter average score of test: 99
+
+A test DOES NOT have an average score greater than: 99.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//BUBBLE SORT
+
+---------------------------------
+        Student Names
+---------------------------------
+        1  Smith, John
+        2  Song, Mona
+        3  Jones, Trevor
+        4  Li, Na
+        5  Zhang, Xiu Ying
+        6  Saleem, Mohammad
+        7  Lloyd, Arthur
+        8  Jones, Rhys
+        9  Evans, Olivia
+        10  Davies, Emily
+
+Find a Students place in the list.
+Enter Student name (e.g., last name, first name):
+Smith, John
+
+Name Found: 1
+
+---------------------------------
+ Student Names: Ascending Order
+---------------------------------
+        1  Davies, Emily
+        2  Evans, Olivia
+        3  Jones, Rhys
+        4  Jones, Trevor
+        5  Li, Na
+        6  Lloyd, Arthur
+        7  Saleem, Mohammad
+        8  Smith, John
+        9  Song, Mona
+        10  Zhang, Xiu Ying
+
+Name Found: 8
+
+---------------------------------
+ Student Names: Descending Order
+---------------------------------
+        1  Zhang, Xiu Ying
+        2  Song, Mona
+        3  Smith, John
+        4  Saleem, Mohammad
+        5  Lloyd, Arthur
+        6  Li, Na
+        7  Jones, Trevor
+        8  Jones, Rhys
+        9  Evans, Olivia
+        10  Davies, Emily
+
+Name Found: 3
+
+*****************************************************************************************************
+
+---------------------------------
+        Student Names
+---------------------------------
+        1  Smith, John
+        2  Song, Mona
+        3  Jones, Trevor
+        4  Li, Na
+        5  Zhang, Xiu Ying
+        6  Saleem, Mohammad
+        7  Lloyd, Arthur
+        8  Jones, Rhys
+        9  Evans, Olivia
+        10  Davies, Emily
+
+Find a Students place in the list.
+Enter Student name (e.g., last name, first name):
+Ragland, Nicholas
+-1
+Name Not Found
+
+---------------------------------
+ Student Names: Ascending Order
+---------------------------------
+        1  Davies, Emily
+        2  Evans, Olivia
+        3  Jones, Rhys
+        4  Jones, Trevor
+        5  Li, Na
+        6  Lloyd, Arthur
+        7  Saleem, Mohammad
+        8  Smith, John
+        9  Song, Mona
+        10  Zhang, Xiu Ying
+-1
+Name Not Found
+
+---------------------------------
+ Student Names: Descending Order
+---------------------------------
+        1  Zhang, Xiu Ying
+        2  Song, Mona
+        3  Smith, John
+        4  Saleem, Mohammad
+        5  Lloyd, Arthur
+        6  Li, Na
+        7  Jones, Trevor
+        8  Jones, Rhys
+        9  Evans, Olivia
+        10  Davies, Emily
+-1
+Name Not Found
+
+*/
