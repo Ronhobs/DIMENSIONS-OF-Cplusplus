@@ -1,5 +1,6 @@
 //This code shows we deleted repeating numbers in a set of  array
 #include <iostream>
+#include<string>
 using namespace std;
 
 const int SIZE_LIMIT = 1024;
