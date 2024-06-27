@@ -49,7 +49,7 @@ void deleteRepeats(char array[], int &size) {
                     array[k - 1] = array[k];
                 }
                 size--; // Reduce the size of the array
-                j--;    // Adjust the index to check the new element at this position
+                j--;    // Adjust the index to  the new element at this position
             }
         }
     }
