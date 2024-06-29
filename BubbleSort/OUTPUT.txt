@@ -1,7 +1,7 @@
 //LINEAR SEARCH
 
 
-    All Test scores
+    All Test scores of students
 87 90 65 45 88 89 75 80
 89 85 78 56 90 91 99 82
 80 90 72 95 99 66 77 88
