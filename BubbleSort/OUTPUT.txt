@@ -36,7 +36,7 @@ The top Student: 8
 Find if at least one student has an average score greater
 Enter average score of student: 95
 
-A student DOES NOT have an average score greater than: 95.00
+A student does not have an average score greater than: 95.00
 
 Find if at least one test has an average score greater
 Enter average score of test: 95
