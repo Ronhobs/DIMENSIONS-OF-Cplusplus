@@ -43,7 +43,7 @@ Enter average score of test: 95
 
 A test DOES have an average score greater than: 95.00
 
-*****************************************************************************************************
+
 
     All Test scores
 87 90 65 45 88 89 75 80
