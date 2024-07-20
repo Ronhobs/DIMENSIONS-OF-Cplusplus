@@ -9,7 +9,6 @@
 #include<iostream>
 using namespace std;
 
-
 void f1(int nums[],int size);
 void f2(int*ptr,int size);
 void f3(int nums[],int size);
