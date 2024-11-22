@@ -18,7 +18,7 @@ int main() {
         size = 0;
         readArray(array, size);
         deleteRepeats(array, size);
-        cout << "\n\nThe array after deleting repeats:";
+        cout << "\n\nThe array after deleting repeats:",
         printArray(array, size);
         
         cout << "\n\nRepeat? (y/n): ";
